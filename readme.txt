@@ -2,7 +2,7 @@
 Contributors: gbyoung
 Tags: widget,widgets,hotels,search,hotelscombined
 Requires at least: 2.3
-Tested up to: 3.1.4
+Tested up to: 3.0.4
 Stable tag: 2.0
 
 Search and Compare 100+ travel sites for 1000s of Hotel deals worldwide – Hotels Combined
