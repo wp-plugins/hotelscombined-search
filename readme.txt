@@ -34,7 +34,7 @@ Yes you can. Just add multiple `[hcsearch]` tags where required. All of these ca
 
 = Can I add multiple HotelsCombined Search Widgets on sidebar? =
 
-Unfortunately no. As of now you can only add one instance of IFrame Widget on sidebar.
+Unfortunately no. As of now you can only add one instance of HotelsCombined Search Widget on sidebar.
 
 == Screenshots ==
 
